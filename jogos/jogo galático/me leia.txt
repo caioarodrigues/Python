@@ -1,3 +1,8 @@
 1. instalar a biblioteca pygame (pip install pygame)
 
 2. executar e compilar o arquivo Main.py
+
+--- Como jogar?
+- Movimente o boneco com as teclas ASDW;
+- Evite colidir com os asteróides;
+- Colete oxigênio para ganhar pontos.
